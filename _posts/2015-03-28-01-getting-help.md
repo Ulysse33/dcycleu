@@ -50,7 +50,7 @@ Later on in this course, we will start working with Drupal and get to know [Drup
 
 Developers and users of open source software work for free, and they are under no obligation to help you. Why do we do it, then? Because we enjoy helping people, but most of all because we _love to create great software_.
 
-A develop who gets a request like one of the three above examples is most likely to ignore it, because developers don't care if you need help. They also don't care if you're frustrated or on a deadline: all they care about is making their software better. Better titles for the above support requests would have been:
+A developer who gets a request like one of the three above examples is most likely to ignore it, because developers don't care if you need help. They also don't care if you're frustrated or on a deadline: all they care about is making their software better. Better titles for the above support requests would have been:
 
  * How to redirect from a taxonomy page to the home page?
  * How to create a stream of Facebook and Twitter activity using Drupal Wall?
