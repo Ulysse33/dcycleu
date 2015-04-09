@@ -38,7 +38,7 @@ In most cases, starting now, your support requests for this course should includ
 Step 2: How to ask for help, and how not to ask for help
 -----
 
-A good place to start asking questions and getting help is [StackOverflow](http://stackoverflow.com): a community of development experts assking and answering questions categorized by tag.
+A good place to start asking questions and getting help is [StackOverflow](http://stackoverflow.com): a community of development experts asking and answering questions categorized by tag.
 
 Create an account with the same username as you used for GitHub in the first lesson, and start by looking at existing questions to get a feel for how to ask for help.
 
