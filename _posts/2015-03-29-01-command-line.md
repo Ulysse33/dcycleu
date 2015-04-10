@@ -279,4 +279,4 @@ Before going on to the next lesson, make sure:
  * Make sure you've installed coreos-vagrant
  * Make sure you have a plain text editor on your computer
  * Make sure you have a running vagrant box with CoreOS, and can log onto it.
- * You are comfortable with the commands `cd`, `ls`, `cat`, the pipe (`|`), `grep`, `find`, aliases, _control-x_, `vi`, on your CoreOS guest.
+ * You are comfortable with the commands `cd`, `ls`, `cat`, the pipe (`|`), `grep`, `find`, aliases, _control-c_, `vi`, on your CoreOS guest.
