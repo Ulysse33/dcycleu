@@ -233,7 +233,7 @@ So... what happened to our prompt. If you're stuck in a script and want to get b
     ^C
     core@core-01 ~/share/startbootstrap-clean-blog-jekyll-gh-pages $
 
-Perhaps `grep` is not all that exciting on its own, but as with any script that takes input, we can _feed_ it information (output) from another script using a pipe. Let's say we want to list only the files in our current directory which contain the character "_", would could list all files using `ls -la`, then pipe (`|`) the output to grep, like this:
+Perhaps `grep` is not all that exciting on its own, but as with any script that takes input, we can _feed_ it information (output) from another script using a pipe. Let's say we want to list only the files in our current directory which contain the character "_", we could list all files using `ls -la`, then pipe (`|`) the output to grep, like this:
 
     core@core-01 ~/share/startbootstrap-clean-blog-jekyll-gh-pages $ ls -la | grep _
     -rw-r--r--  1 501 root  8196 Apr  8 17:11 .DS_Store
