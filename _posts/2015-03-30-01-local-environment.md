@@ -113,7 +113,7 @@ Head back to your project page on GitHub, and locate the "clone URL" section, se
 
 <img src="/img/2015-03-29-01-cloning-from-github.png" />
 
-Copy the ssh address of your git repository (or git _repo_), and clone it on your CoreOS instance. Make sure to do so within the `~/share/` folder, so you also have acces to it form your host machine (so you can edit files with the text editor you installed in the previous lesson). Make sure you see something like this (your git repo URL will differ):
+Copy the ssh address of your git repository (or git _repo_), and clone it on your CoreOS instance. Make sure to do so within the `~/share/` folder, so you also have acces to it from your host machine (so you can edit files with the text editor you installed in the previous lesson). Make sure you see something like this (your git repo URL will differ):
 
     core@core-01 ~/share $ git clone git@github.com:dcycleproject/startbootstrap-clean-blog-jekyll.git
     Cloning into 'startbootstrap-clean-blog-jekyll'...
