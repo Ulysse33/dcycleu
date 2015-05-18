@@ -139,7 +139,7 @@ Synchronize code between your computer and GitHub
 
 In [lesson 1.1](/2015/03/27/01-using-this-site/), you changed the title of your blog in GitHub. Change it again now, on GitHub, to something else.
 
-Back in CoreOS, _pull_ your the change you made in GitHub:
+Back in CoreOS, _pull_ the change you made in GitHub:
 
     core@core-01 ~/share/startbootstrap-clean-blog-jekyll $ git pull origin gh-pages
 
