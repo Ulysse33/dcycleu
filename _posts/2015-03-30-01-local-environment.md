@@ -145,14 +145,14 @@ Back in CoreOS, _pull_ your the change you made in GitHub:
 
 If you set up SSH keys correctly, you should not be prompted for your password; if you are, please [report an issue](https://github.com/dcycleproject/dcycleu/issues). At this point, your local code should contain the change you just made in GitHub. `origin` is, in this case, GitHub; `gh-pages` is the _branch_ we're working on. Don't worry too much about branches right now; in a future lesson we will look more into Git.
 
-Because of shared folders, `~/share/startbootstrap-clean-blog-jekyll` ad `~/Documents/coreos-vagrant/startbootstrap-clean-blog-jekyll` on your laptop are the same folder. So you can use your laptop's OS and your preferred plain-text editor to modify your title. If you're having trouble with this, please see the paragraph "A word on what to do if you laptop on the Vagrant CoreOS VM get unsynchronized", below.
+Because of shared folders, `~/share/startbootstrap-clean-blog-jekyll` ad `~/Documents/coreos-vagrant/startbootstrap-clean-blog-jekyll` on your laptop are the same folder. So you can use your laptop's OS and your preferred plain-text editor to modify your title. If you're having trouble with this, please see the paragraph "A word on what to do if your laptop and the Vagrant CoreOS VM get unsynchronized", below.
 
 Now change your title locally (on your computer), back to what it was before, then we need to commit the change and push it back to GitHub.
 
     core@core-01 ~/share/startbootstrap-clean-blog-jekyll $ git commit -am 'changed title'
     core@core-01 ~/share/startbootstrap-clean-blog-jekyll $ git push origin gh-pages
 
-A word on what to do if you laptop on the Vagrant CoreOS VM get unsynchronized
+A word on what to do if your laptop and the Vagrant CoreOS VM get unsynchronized
 -----
 
 In some cases your core OS's `~/share` folder and the corresponding `~/Documents/coreos-vagrant` folder on your laptop can get unsynchronized: for example, `~/share` will become incomplete, or downright empty, on CoreOS.
