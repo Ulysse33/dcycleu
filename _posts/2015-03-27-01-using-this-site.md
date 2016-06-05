@@ -53,7 +53,7 @@ GitHub is a collection of mostly open source software projects; it is designed t
 
  * Start by logging onto GitHub.
  * Navigate to the [Clean Blog project](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll).
- * Find the "Fork" button a click on it.
+ * Find the "Fork" button and click on it.
 
 <img src="/img/2015-03-27-01-using-this-site-fork.png" />
 
