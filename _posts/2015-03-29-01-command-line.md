@@ -178,7 +178,7 @@ Files starting with a period `.`, such as `.gitignore`, do not show in your comp
     .DS_Store   README.md     _posts      feed.xml      js
     .gitignore  _config.yml   about.html  fonts         less
 
-You will probably prefer to see more information about files, such as the modification date, in which you can add the `-l` modifier, which added to the `-a` modifier looks like this:
+You will probably prefer to see more information about files, such as the modification date, in which case you can add the `-l` modifier, which added to the `-a` modifier looks like this:
 
     core@core-01 ~/share/startbootstrap-clean-blog-jekyll-gh-pages $ ls -la
     total 104
